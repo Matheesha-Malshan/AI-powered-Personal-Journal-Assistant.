@@ -1,6 +1,10 @@
 🚀 My Project: 
+
+
 AI-Powered Personal Journal Assistant (AI Diary) 🧠📓
 Hey everyone! 👋
+
+
 As a Java and ML developer, I wanted to build something that connects AI with everyday life — something personal yet intelligent.
 That’s how AI Diary was born — an AI-powered personal journal assistant that lets you record your daily experiences through both text and voice.
 
